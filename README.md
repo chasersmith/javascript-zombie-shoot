@@ -2,7 +2,7 @@
 
 Simple JavaScript game where you point and click to kill zombies so they don't escape. Project originally made in 2017 for practice in JavaScript. Live build can be played on [Gamejolt](https://gamejolt.com/games/zombieshoot/225808)
 
-## Installing
+## Running
 
 Project can be cloned with the command below using [Git](https://git-scm.com) or downloaded as zip using GitHub. Game can be ran by directly opening `index.html` or by running on web server.
 
