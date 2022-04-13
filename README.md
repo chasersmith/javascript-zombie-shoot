@@ -1,6 +1,6 @@
 # Zombie Shoot - Basic JavaScript Game
 
-Simple JavaScript game where you point and click to kill zombies so they don't escape. Project originally made in 2017 for practice in JavaScript. Live build can be played on [Gamejolt](https://gamejolt.com/games/zombieshoot/225808)
+Simple JavaScript game where you point and click to kill zombies so they don't escape. Project originally made in 2017 for practice in JavaScript. Live build can be played on [Github Page](https://chasersmith.github.io/javascript-zombie-shoot/) or [Gamejolt](https://gamejolt.com/games/zombieshoot/225808)
 
 ## Running
 
